@@ -6,16 +6,12 @@
 
 
 
-
-This is [an example](http://www.baidu.com) inline link.
-
-B has no title attribute.
+Models are avaliable in the [model zoo](http://www.baidu.com).
 
 
 
 
-
-
+---
 ## BibTex
 
 ```
