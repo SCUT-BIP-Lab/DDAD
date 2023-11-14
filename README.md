@@ -5,7 +5,7 @@ This is the pytorch implementation of our paper [DDAD: Detachable Crowd Density 
 # Quick start
 
 ## Installation
-1. Install dependencies:
+- Step 1 Install dependencies:
 ```
 pip install -r requirements.txt
 ```
