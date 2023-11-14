@@ -4,7 +4,7 @@
 
 ## BibTex
 
-'''
+```
 @article{tang2022ddad,
   title={DDAD: Detachable Crowd Density Estimation Assisted Pedestrian Detection},
   author={Tang, Wenxiao and Liu, Kun and Shakeel, M Saad and Wang, Hao and Kang, Wenxiong},
@@ -15,11 +15,6 @@
   year={2022},
   publisher={IEEE}
 }
-'''
+```
 
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
