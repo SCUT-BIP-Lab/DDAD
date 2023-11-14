@@ -1,0 +1,2 @@
+Epoch:1, iter:0, lr:0.00001, loss is 2.0979.
+{'loss_rpn_cls': tensor(0.7064, device='cuda:0', grad_fn=<MulBackward0>), 'loss_rpn_loc': tensor(0.4452, device='cuda:0', grad_fn=<MulBackward0>), 'loss_rcnn_loc': tensor(0.0980, device='cuda:0', grad_fn=<MulBackward0>), 'loss_rcnn_cls': tensor(0.5937, device='cuda:0', grad_fn=<MulBackward0>), 'loss_density': tensor(3.2678e-06, device='cuda:0', grad_fn=<MulBackward0>), 'loss_num': tensor(0.2547, device='cuda:0', grad_fn=<MulBackward0>)}
