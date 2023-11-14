@@ -1,9 +1,9 @@
 # DDAD: Detachable Crowd Density Estimation Assisted Pedestrian Detection
 
-
+This is the pytorch implementation of our paper [DDAD: Detachable Crowd Density Estimation Assisted Pedestrian Detection](https://ieeexplore.ieee.org/document/9963778), published in IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2023.
 
 # Quick start
----
+
 ## Installation
 1. Install dependencies:
 ```
@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 
 Models are avaliable in the [model zoo](http://www.baidu.com).
+
+
 
 
 
