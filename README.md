@@ -5,12 +5,17 @@ This is the pytorch implementation of our paper [DDAD: Detachable Crowd Density 
 # Quick start
 
 ## Installation
-- Step 1 Install dependencies:
+- Install dependencies:
 ```
 pip install -r requirements.txt
 ```
 
-
+- Training.
+More training seetings can be set in ```config.py```
+```
+cd tools
+python train.py -md rcnn_fpn_baseline
+```
 
 
 
