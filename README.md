@@ -2,6 +2,20 @@
 
 
 
+
+
+
+
+
+This is [an example](http://www.baidu.com) inline link.
+
+B has no title attribute.
+
+
+
+
+
+
 ## BibTex
 
 ```
