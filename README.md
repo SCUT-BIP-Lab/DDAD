@@ -52,5 +52,5 @@ Models are avaliable in the [model zoo](http://www.baidu.com).
 
 
 # Acknowledgement
-- This code was inspired from CrowdDet.d
+- This code was inspired from [CrowdDet]([http://www.baidu.com](https://github.com/xg-chu/CrowdDet)https://github.com/xg-chu/CrowdDet).
 
