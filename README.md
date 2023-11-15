@@ -27,7 +27,7 @@ python test.py -md rcnn_emd_simple_idad -r 1
 When testing different models, simply modify the numbers in the test commands. The result json file will be evaluated automatically.
 
 
-Models are avaliable in the [model zoo](https://www.cnblogs.com/geeksongs/p/10606906.html), code: 4i2x.
+Models are avaliable in the [model zoo](https://pan.baidu.com/s/1TRq3h9UYYSTW7NMNwnt93Q?pwd=4i2x), code: 4i2x.
 
 
 
