@@ -29,6 +29,8 @@ When testing different models, simply modify the numbers in the test commands. T
 
 Models are avaliable in the [model zoo](https://pan.baidu.com/s/1TRq3h9UYYSTW7NMNwnt93Q?pwd=4i2x), code: 4i2x.
 
+Mat files are in the [mat files](https://pan.baidu.com/s/1OqyFcV6pGcueEw5IDRlvdw?pwd=fpga), code: fpga.
+
 
 
 
