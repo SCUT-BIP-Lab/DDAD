@@ -38,6 +38,8 @@ Mat files are in the [mat files](https://pan.baidu.com/s/1OqyFcV6pGcueEw5IDRlvdw
 ---
 ## BibTex
 
+This is the repository for the paper MarginMatch: DDAD: Detachable Crowd Density Estimation Assisted Pedestrian Detection. If you found this repository helpful, consider citing our paper:
+
 ```
 @article{tang2022ddad,
   title={DDAD: Detachable Crowd Density Estimation Assisted Pedestrian Detection},
